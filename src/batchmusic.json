@@ -23,7 +23,7 @@
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
+                  "Artist": {"S": "The Killers"},
                   "SongTitle": {"S": "Smile Like You Mean It"},
                   "AlbumTitle": {"S": "Hot Fuss"},
                   "SongYear": {"S": "2004"}
