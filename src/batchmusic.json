@@ -3,10 +3,20 @@
         {
             "PutRequest": {
                 "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Wasting Love"},
-                  "AlbumTitle": {"S": "Fear of the Dark Live"},
-                  "SongYear": {"S": "1992"}
+                  "Artist": {"S": "The Killers"},
+                  "SongTitle": {"S": "Mr BrightSide"},
+                  "AlbumTitle": {"S": "Hot Fuss"},
+                  "SongYear": {"S": "2004"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                  "Artist": {"S": "The Killers"},
+                  "SongTitle": {"S": "Somebody Told Me"},
+                  "AlbumTitle": {"S": "Hot Fuss"},
+                  "SongYear": {"S": "2004"}
                 }
             }
         },
@@ -14,19 +24,9 @@
             "PutRequest": {
                 "Item": {
                   "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Weekend Warrior"},
-                  "AlbumTitle": {"S": "Fear of the Dark"},
-                  "SongYear": {"S": "1992"}
-                }
-            }
-        },
-        {
-            "PutRequest": {
-                "Item": {
-                  "Artist": {"S": "Iron Maiden"},
-                  "SongTitle": {"S": "Fear of the Dark"},
-                  "AlbumTitle": {"S": "Fear of the Dark Tour"},
-                  "SongYear": {"S": "1992"}
+                  "SongTitle": {"S": "Smile Like You Mean It"},
+                  "AlbumTitle": {"S": "Hot Fuss"},
+                  "SongYear": {"S": "2004"}
                 }
             }
         }
