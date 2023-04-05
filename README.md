@@ -1,5 +1,6 @@
 ### Sobre:
 Repositório para o Desafio de Projeto DynamoDB - Bootcamp Java Banco Pan - Dio
+Criação de tabela pela AWS, com inserção de Banda, álbum, título e ano das músicas.
 
 ### Serviço utilizado
   - Amazon DynamoDB
